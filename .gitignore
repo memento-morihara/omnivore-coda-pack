@@ -1,6 +1,4 @@
 .coda.json
 .coda-credentials.json
-beta.js
+package-lock.json
 node_modules
-.coda.json
-.coda-credentials.json
